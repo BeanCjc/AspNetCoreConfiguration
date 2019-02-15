@@ -1,0 +1,12 @@
+﻿{
+  "format": {
+    "dateformatoptions": {
+      "dateformat": "yyyy-mm-dd",
+      "timeformat": "hh:mm:ss.fff"
+    },
+    "currencydecimalformatoptions": {
+      "digits": "3",
+      "symbol": "$"
+    }
+  }
+}
